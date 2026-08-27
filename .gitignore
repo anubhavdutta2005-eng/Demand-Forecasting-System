@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+dashboard/node_modules/
+dashboard/dist/
+
+.env
+.env.*
+!.env.example
+
+*.log
+.DS_Store
+Thumbs.db
+
+# Data
+data/*
+!data/store.csv
+!data/processed/
+!data/processed/model_data.csv
