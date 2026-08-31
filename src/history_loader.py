@@ -20,7 +20,7 @@ REQUIRED_COLUMNS = [
     "Open",
     "Promo",
     "SchoolHoliday",
-    "StateHoliday",
+    "IsStateHoliday",
 ]
 
 
